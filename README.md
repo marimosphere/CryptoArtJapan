@@ -4,8 +4,6 @@ When you belong to an artist community, you get a community token. That token wi
 
 We are also creating an artist ecosystem and running CAWA (CryptoArtWeekAsia in Tokyo) on a volunteer basis.
 
-Translated with www.DeepL.com/Translator (free version)
-
 ![NFT_CRYPTOART_JAPAN](https://user-images.githubusercontent.com/6801635/121112598-956d4200-c84b-11eb-92d0-5aca1cd7f968.jpg)
 
 
