@@ -1,4 +1,5 @@
 -EN-
+
 NFT & CRYPTO ART JAPAN is an open community of crypto artists based in Japan.
 We started our activities in February of 2021, and we are forming the community on Discord.
 We also hold study sessions on NFT at Clubhouse and NFT workshops for beginners on Zoom.
@@ -16,6 +17,7 @@ Your support would be greatly appreciated!
 ![NFT_CRYPTOART_JAPAN](https://user-images.githubusercontent.com/6801635/121112598-956d4200-c84b-11eb-92d0-5aca1cd7f968.jpg)
 
 -JP-
+
 NFT & CRYPTO ART JAPAN は日本をベースとしたクリプトアーティストのオープンなコミュニティです。
 2021年の2月に活動を開始し、Discordでコミュニティを形成しています。
 ClubhouseでNFTに関する勉強会をしたり、Zoomで初心者向けのNFTワークショップなども行っています。
