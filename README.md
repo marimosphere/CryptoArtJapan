@@ -14,6 +14,11 @@ And those who support this project will be able to receive NFTs of their choice 
 We hope to creatively shape the world with NFT, from Japan and with our friends around the world!
 Your support would be greatly appreciated!
 
+This is the press release of our Japan's first physical NFT exhibition! 
+
+https://prtimes.jp/main/html/rd/p/000000002.000081751.html
+
+
 ![NFT_CRYPTOART_JAPAN](https://user-images.githubusercontent.com/6801635/121112598-956d4200-c84b-11eb-92d0-5aca1cd7f968.jpg)
 
 -JP-
@@ -31,3 +36,7 @@ ClubhouseでNFTに関する勉強会をしたり、Zoomで初心者向けのNFT�
 
 私たちは、日本から、そしてワールドワイドに広がる仲間たちと、NFTで世界をクリエイティブに形作っていきたいと願っています！
 ご支援、どうぞよろしくお願いいたします！
+
+以下は、2021/6/21 に行った、日本初のフィジカルNFT展覧会のプレスリリースです！
+
+https://prtimes.jp/main/html/rd/p/000000002.000081751.html
