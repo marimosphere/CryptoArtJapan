@@ -12,6 +12,7 @@ https://prtimes.jp/main/html/rd/p/000000002.000081751.html
 
 Now we are planning and preparing to hold physical NFT exhibition for CryptoArtWeekAsia in Tokyo!
 
+https://www.cryptoartweekasia.com/
 https://prtimes.jp/main/html/rd/p/000000004.000081751.html
 
 ----------------
@@ -57,6 +58,7 @@ https://prtimes.jp/main/html/rd/p/000000002.000081751.html
 
 そして現在、CryptoArtWeekAsia in Tokyo　として、フィジカルNFT展覧会を企画準備中です！
 
+https://www.cryptoartweekasia.com/
 https://prtimes.jp/main/html/rd/p/000000004.000081751.html
 
 ----------------
