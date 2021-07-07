@@ -6,6 +6,8 @@ We also hold study sessions on NFT at Clubhouse and NFT workshops for beginners 
 We also make land (parcels) owned by me in the metaverse (mainly CryptoVoxels) available for artists, and help them open galleries and hold exhibitions.
 We are also running CryptoArtWeekAsia in Tokyo on a volunteer basis.
 
+![CAJEXB_pano_3000](https://user-images.githubusercontent.com/6801635/124831294-feb0b400-dfb5-11eb-8874-8112c6504f9c.jpg)
+
 The following is the press release and interview of the first physical NFT exhibition in Japan held on June 21, 2021!
 
 https://prtimes.jp/main/html/rd/p/000000002.000081751.html
@@ -17,6 +19,8 @@ Now we are planning and preparing to hold physical NFT exhibition for CryptoArtW
 https://www.cryptoartweekasia.com/
 
 https://prtimes.jp/main/html/rd/p/000000004.000081751.html
+
+![CAWAinTokyo](https://user-images.githubusercontent.com/6801635/124831546-56e7b600-dfb6-11eb-8d65-b5409975d2ce.jpg)
 
 ----------------
 
@@ -55,6 +59,8 @@ ClubhouseでNFTに関する勉強会をしたり、Zoomで初心者向けのNFT�
 また、私たちはアーティストのために、メタバース(主にCryptoVoxels)の私が所有する土地（パーセル）を使用可能にし、ギャラリーを開設したり、展覧会の開催をサポートしています。
 また、CryptoArtWeekAsia in Tokyoの運営も、ボランティアで行っております。
 
+![CAJEXB_pano_3000](https://user-images.githubusercontent.com/6801635/124831294-feb0b400-dfb5-11eb-8874-8112c6504f9c.jpg)
+
 以下は、2021/6/21 に行った、日本初のフィジカルNFT展覧会のプレスリリースと、インタビュー記事です！
 
 https://prtimes.jp/main/html/rd/p/000000002.000081751.html
@@ -66,6 +72,8 @@ https://finders.me/articles.php?id=2870
 https://www.cryptoartweekasia.com/
 
 https://prtimes.jp/main/html/rd/p/000000004.000081751.html
+
+![CAWAinTokyo](https://user-images.githubusercontent.com/6801635/124831551-5a7b3d00-dfb6-11eb-9dc0-1ad4d64aeed6.jpg)
 
 ----------------
 
