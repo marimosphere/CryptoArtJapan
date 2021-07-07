@@ -21,11 +21,11 @@ When artists and developers belong to this community, they get a community token
 Those tokens will allow you to get Dev rewards.
 And those who support this project will be able to receive NFTs of their choice from a list of works by the artists they belong to, depending on the amount and duration of their staking.
 
-The community token "CAJA"
-Project Name:
-Crypto Art Japan Association
-Token Symbol:
-CAJA
+The community token "CAJA". 
+Project Name:  
+Crypto Art Japan Association. 
+Token Symbol:  
+CAJA. 
 
 The community token "CAJA" is issued using the TokenIssuance feature of iroiro.
 https://github.com/iroiro/iroiro/blob/main/docs/CONTRACTS_OVERVIEW.md
@@ -71,11 +71,11 @@ https://prtimes.jp/main/html/rd/p/000000004.000081751.html
 そのトークンはDevのリワードがもらえるようになります。
 そしてこのプロジェクトを支援してくださった方は、ステーキングの額と期間に応じて、所属アーティストの作品のリストから好きな作品をNFTとして受け取ることができます。
 
-コミュニティトークン "CAJA"
-プロジェクトネーム:
-Crypto Art Japan Association
-トークンシンボル:
-CAJA
+コミュニティトークン "CAJA". 
+プロジェクトネーム:  
+Crypto Art Japan Association. 
+トークンシンボル:  
+CAJA. 
 
 コミュニティトークンは、iroiroのTokenIssuanceの機能を利用して発行されています。
 https://github.com/iroiro/iroiro/blob/main/docs/CONTRACTS_OVERVIEW.md
