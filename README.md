@@ -17,15 +17,17 @@ https://prtimes.jp/main/html/rd/p/000000004.000081751.html
 ----------------
 
 We are also creating a sustainable ecosystem for artists, a new way of community, and a platform to support artists.
-When artists and developers belong to this community, they get a community token.
-Those tokens will allow you to get Dev rewards.
-And those who support this project will be able to receive NFTs of their choice from a list of works by the artists they belong to, depending on the amount and duration of their staking.
+When artists and developers belong to this community, they receive a community token.
+By holding this community token, they are granted various privileges and rights in the community.
+For example, they have priority to hold their own exhibition at our Cryptovoxels parcel, they have access to the community members' Discord channel, they can participate in community events, and so on.
+Also, if they burn community tokens, they will be able to receive Dev rewards for staking rewards in this project, depending on the percentage of tokens they have.
+And those who support this project in the form of staking will be able to receive NFTs of our community's artists as rewards, depending on the amount and duration of their staking.
 
-The community token "CAJA". 
-Project Name:  
-Crypto Art Japan Association. 
-Token Symbol:  
-CAJA. 
+The community token "CAJA"<br>
+Project Name:<br>
+Crypto Art Japan Association<br>
+Token Symbol:<br>
+CAJA<br>
 
 The community token "CAJA" is issued using the TokenIssuance feature of iroiro.
 https://github.com/iroiro/iroiro/blob/main/docs/CONTRACTS_OVERVIEW.md
@@ -68,14 +70,16 @@ https://prtimes.jp/main/html/rd/p/000000004.000081751.html
 
 また私たちはアーティストのサステイナブルなエコシステムを作り、新しいコミュニティのあり方、アーティストの支援のためのプラットフォームを立ち上げています。
 アーティストや開発者はこのコミュニティに所属すると、コミュニティトークンがもらえます。
-そのトークンはDevのリワードがもらえるようになります。
-そしてこのプロジェクトを支援してくださった方は、ステーキングの額と期間に応じて、所属アーティストの作品のリストから好きな作品をNFTとして受け取ることができます。
+このコミュニティトークンを保持していることで、コミュニティのさまざまな特典や権利が付与されます。
+例えば、私たちの所有するCryptovoxelsのparcelで自分の展覧会を優先的に開催することができたり、コミュニティメンバー用のDiscordのチャンネルにアクセスできたり、コミュニティのイベントに参加できたり、などといった権利です。
+また、コミュニティトークンをburnすると、保有トークンの割合に応じて、このプロジェクトにステーキングされたステーキング報酬のDevのリワードがもらえるようになります。
+そしてこのプロジェクトをステーキングという形で支援してくださった方は、ステーキングの額と期間に応じて、私たちのコミュニティの所属アーティストのNFTをリワードとして受け取ることができるようになります。
 
-コミュニティトークン "CAJA". 
-プロジェクトネーム:  
-Crypto Art Japan Association. 
-トークンシンボル:  
-CAJA. 
+コミュニティトークン "CAJA"<br>
+プロジェクトネーム:<br>
+Crypto Art Japan Association<br>
+トークンシンボル:<br>
+CAJA<br>
 
 コミュニティトークンは、iroiroのTokenIssuanceの機能を利用して発行されています。
 https://github.com/iroiro/iroiro/blob/main/docs/CONTRACTS_OVERVIEW.md
