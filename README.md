@@ -29,23 +29,16 @@ Crypto Art Japan Association<br>
 Token Symbol:<br>
 CAJA<br>
 
-The community token "CAJA" is issued using the TokenIssuance feature of iroiro.
+The community token "CAJA" is issued by using the TokenIssuance and DevReceiver features of iroiro.
 https://github.com/iroiro/iroiro/blob/main/docs/CONTRACTS_OVERVIEW.md
 
 TokenIssuance
 TokenIssuance is a feature of Iroiro that allows you to create any SocialToken (CommunityToken).
 
-An account that wants to issue a token deploys a SocialToken using createToken() in TokenFactory. At this time, the user can issue any token by specifying the token name, symbol, and the distribution rate of the token to Iroiro operator and Iroiro app as arguments. When a token is issued, the default percentage of tokens will be sent to each address as follows
-
-Token issuer: 20% This will not be held by the token issuer, but will be distributed to the community via Iroiro, or used to provide liquidity via Uniswap.
-TreasuryVester: 80% (will be reduced if donation rate is specified). Tokens that the token issuer can receive in the future will be sent to TreasuryVester and locked for 3 years. The amount of tokens that can be withdrawn increases linearly with time, and the unlocked tokens can be withdrawn at any time.
-Iroiro Operator and Iroiro App: The amount of tokens divided from the allocation to TreasuryVester according to the specified donation rate will be sent to Iroiro as donation. The sent tokens will be divided into two parts: one for the operator and the other for future use in the Iroiro app.
-
 ----------------
 
 We hope to creatively shape the world with NFT, from Japan and with our friends around the world!
 Your support would be greatly appreciated!
-
 
 
 ![NFT_CRYPTOART_JAPAN](https://user-images.githubusercontent.com/6801635/121112598-956d4200-c84b-11eb-92d0-5aca1cd7f968.jpg)
@@ -81,17 +74,14 @@ Crypto Art Japan Association<br>
 トークンシンボル:<br>
 CAJA<br>
 
-コミュニティトークンは、iroiroのTokenIssuanceの機能を利用して発行されています。
+コミュニティトークンは、iroiroのTokenIssuanceの機能とDevReceiverの機能をを利用して発行されています。
 https://github.com/iroiro/iroiro/blob/main/docs/CONTRACTS_OVERVIEW.md
 
 TokenIssuance
 TokenIssuanceとは、任意のSocialToken(CommunityToken)を作成可能なIroiroの機能です。
 
-トークンを発行したいアカウントは、 TokenFactory の createToken() を利用して SocialToken をデプロイします。 この際にユーザーはトークンの名称、シンボル、Iroiro運営及びIroiroアプリへのトークンの配布率を引数で指定して、任意のトークンを発行することができます。 トークンが発行されると、デフォルトの場合下記の割合でトークンが各アドレスに対して送付されます。
-
-トークン発行者: 20% これはトークン発行者が保有するものではく、 Iroiro などを利用したコミュニティへの配布を行ったり、Uniswapなどでの流動性提供に用いられることを想定しています。
-TreasuryVester: 80% (寄付率が指定された場合減少します)。トークン発行者が将来的に受け取ることができるトークンはTreasuryVesterへ送られ、3年間ロックされます。引き出せるトークン量は時間の経過に応じて線形的に増加し、自由なタイミングでアンロックされたトークンを引き出すことができます。
-Iroiro運営及びIroiroアプリ: 指定された寄付率に応じてTreasuryVesterへの割り当て分から分割したトークン量をIroiroへ寄付として送ります。 送られたトークンは運営者への割り当てと、Iroiroのアプリ上で将来的に利用されるために二等分されます。
+DevReceiver
+DevReceiverはDev ProtocolにおけるPropertyに対するRewardを、iroiroのTokenFactoryなどで作成されるCommunity Token保有者に対して分配を行うコントラクトです。
 
 ----------------
 
